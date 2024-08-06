@@ -1,0 +1,15 @@
+.btn{
+    height: 40px;
+    width: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+  }
+  .itemsContainer{
+    margin-block: 5px;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    border-radius: 5px;
+  }
